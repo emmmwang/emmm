@@ -20,4 +20,7 @@ class MainActivity : AppCompatActivity() {
     private fun test(){
         //test方法
     }
+    private  fun test2(){
+        //test2方法
+    }
 }
